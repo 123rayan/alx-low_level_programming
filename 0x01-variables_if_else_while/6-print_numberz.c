@@ -6,6 +6,7 @@
  * You can only use the putchar function
  * Return: 0
  */
+
 int main(void)
 {
 int n = 48;
@@ -17,3 +18,4 @@ n += 1;
 printf("\n");
 return (0);
 }
+
