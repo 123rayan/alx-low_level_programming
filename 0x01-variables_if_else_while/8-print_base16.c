@@ -5,6 +5,7 @@
  * You can only use the putchar function
  * You can only use the putchar function
  */
+
 int main(void)
 {
 int n = 48;
