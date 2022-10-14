@@ -6,7 +6,8 @@
  * You can only use the putchar function
  */
 int main(void)
-{int n = 48;
+{
+int n = 48;
 int l = 'a';
 while (n <= 57)
 {
